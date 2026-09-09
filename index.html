@@ -274,7 +274,7 @@
     </header>
 
     <div class="controls-panel">
-        <div class="upload-area" id="drop-zone">
+        <div class="upload-area" id="drop-zone" style="display: none;">
             <p>Drag & Drop a Pangloss XML file here</p>
             <p>or</p>
             <button class="upload-btn" onclick="document.getElementById('file-input').click()">Browse Files</button>
@@ -585,7 +585,7 @@
         // Initialize with sample data on load
         window.addEventListener('DOMContentLoaded', () => {
             // Replace 'your-file-name.xml' with the exact name of your uploaded file!
-            fetch('mubarkan_pangloss')
+            fetch('mubarkan_pangloss.xml')
                 .then(response => response.text())
                 .then(xmlText => {
                     parsePanglossXML(xmlText);
