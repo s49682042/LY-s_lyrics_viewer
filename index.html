@@ -584,8 +584,19 @@
 
         // Initialize with sample data on load
         window.addEventListener('DOMContentLoaded', () => {
-            parsePanglossXML(sampleXML);
-            updateToggles();
+            // Replace 'your-file-name.xml' with the exact name of your uploaded file!
+            fetch('mubarkan_pangloss')
+                .then(response => response.text())
+                .then(xmlText => {
+                    parsePanglossXML(xmlText);
+                    updateToggles();
+                })
+                .catch(error => {
+                    console.error('Error loading the XML file:', error);
+                    // If it fails, it will load the default sample data instead
+                    parsePanglossXML(sampleXML);
+                    updateToggles();
+                });
         });
 
     </script>
