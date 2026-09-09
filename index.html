@@ -303,15 +303,23 @@
                     <input type="checkbox" id="toggle-zho" checked>
                     中譯
                 </label>
+                <!-- NEW AUDIO CHECKBOX HERE -->
+                <label class="toggle-label">
+                    <input type="checkbox" id="toggle-audio">
+                    🎵 播放音樂
+                </label>
             </div>
         </div>
     </div>
+
+    <!-- Hidden Audio Player -->
+    <!-- Make sure to replace your-audio-file.mp3 with your actual filename! -->
+    <audio id="song-audio" src="Mubarkan.mp3" preload="auto"></audio>
 
     <!-- The container class will be updated by JS to handle toggle states -->
     <main id="corpus-container" class="">
         <!-- Sentences will be injected here -->
     </main>
-
     <script>
         // --- Sample Demo Data (Pangloss XML format) ---
         const sampleXML = `
@@ -365,7 +373,9 @@
         const toggleGloss = document.getElementById('toggle-gloss');
         const toggleEng = document.getElementById('toggle-eng');
         const toggleZho = document.getElementById('toggle-zho');
-
+        const toggleAudio = document.getElementById('toggle-audio');
+        const songAudio = document.getElementById('song-audio');
+        
         // State to hold parsed sentences for searching
         let parsedSentences = [];
 
@@ -550,7 +560,24 @@
         toggleGloss.addEventListener('change', updateToggles);
         toggleEng.addEventListener('change', updateToggles);
         toggleZho.addEventListener('change', updateToggles);
+// Play or Pause audio when checkbox is clicked
+        toggleAudio.addEventListener('change', (e) => {
+            if (e.target.checked) {
+                songAudio.play().catch(error => {
+                    console.error("Audio playback failed:", error);
+                    alert("Please allow audio playback in your browser.");
+                    toggleAudio.checked = false; // Uncheck if browser blocks it
+                });
+            } else {
+                songAudio.pause();
+            }
+        });
 
+        // Automatically uncheck the box when the song finishes
+        songAudio.addEventListener('ended', () => {
+            toggleAudio.checked = false;
+        });
+        
         // 3. File Upload / Drag & Drop
         function handleFile(file) {
             if (!file) return;
