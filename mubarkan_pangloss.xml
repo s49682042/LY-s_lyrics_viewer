@@ -1,0 +1,1251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEXT id="mubarkan_corpus_01" xml:lang="hin" citation="Mubarkan Mubarkan Mubarkan" copyright="CC BY-NC 4.0">
+  <S id="s_01">
+    <TRANSL xml:lang="zho">今天，我那摯愛的良人來到我的庭院裡了呀。</TRANSL>
+    <W id="s_01_w_01">
+      <FORM>Aaj</FORM>
+      <TRANSL xml:lang="zho">今天</TRANSL>
+    </W>
+    <W id="s_01_w_02">
+      <FORM>mere</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_01_w_03">
+      <FORM>angna</FORM>
+      <TRANSL xml:lang="zho">庭院</TRANSL>
+    </W>
+    <W id="s_01_w_04">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_01_w_05">
+      <FORM>pyar</FORM>
+      <TRANSL xml:lang="zho">愛人</TRANSL>
+    </W>
+    <W id="s_01_w_06">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+    <W id="s_01_w_07">
+      <FORM>re</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_02">
+    <TRANSL xml:lang="zho">今天，我那摯愛的良人來到我的庭院裡了呀。</TRANSL>
+    <W id="s_02_w_01">
+      <FORM>Aaj</FORM>
+      <TRANSL xml:lang="zho">今天</TRANSL>
+    </W>
+    <W id="s_02_w_02">
+      <FORM>mere</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_02_w_03">
+      <FORM>angna</FORM>
+      <TRANSL xml:lang="zho">庭院</TRANSL>
+    </W>
+    <W id="s_02_w_04">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_02_w_05">
+      <FORM>pyar</FORM>
+      <TRANSL xml:lang="zho">愛人</TRANSL>
+    </W>
+    <W id="s_02_w_06">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+    <W id="s_02_w_07">
+      <FORM>re</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_03">
+    <TRANSL xml:lang="zho">這顆心一直渴望著的那位知心人，終於歸來了呀。</TRANSL>
+    <W id="s_03_w_01">
+      <FORM>Dil</FORM>
+      <TRANSL xml:lang="zho">心</TRANSL>
+    </W>
+    <W id="s_03_w_02">
+      <FORM>ne</FORM>
+      <TRANSL xml:lang="zho">(作格)</TRANSL>
+    </W>
+    <W id="s_03_w_03">
+      <FORM>jisko</FORM>
+      <TRANSL xml:lang="zho">(受格關代)</TRANSL>
+    </W>
+    <W id="s_03_w_04">
+      <FORM>chaha</FORM>
+      <TRANSL xml:lang="zho">渴望</TRANSL>
+    </W>
+    <W id="s_03_w_05">
+      <FORM>woh</FORM>
+      <TRANSL xml:lang="zho">那位</TRANSL>
+    </W>
+    <W id="s_03_w_06">
+      <FORM>dildar</FORM>
+      <TRANSL xml:lang="zho">知心人</TRANSL>
+    </W>
+    <W id="s_03_w_07">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+    <W id="s_03_w_08">
+      <FORM>re</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_04">
+    <TRANSL xml:lang="zho">我那珍視如寶的愛人，嘿，良人。</TRANSL>
+    <W id="s_04_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_04_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_04_w_03">
+      <FORM>saajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_04_w_04">
+      <FORM>hay</FORM>
+      <TRANSL xml:lang="zho">嘿</TRANSL>
+    </W>
+    <W id="s_04_w_05">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_04_w_06">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+  </S>
+  <S id="s_05">
+    <TRANSL xml:lang="zho">噢，我那珍視的心上人，終於回到身邊。</TRANSL>
+    <W id="s_05_w_01">
+      <FORM>O</FORM>
+      <TRANSL xml:lang="zho">噢</TRANSL>
+    </W>
+    <W id="s_05_w_02">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_05_w_03">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_05_w_04">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_05_w_05">
+      <FORM>ghar</FORM>
+      <TRANSL xml:lang="zho">家</TRANSL>
+    </W>
+    <W id="s_05_w_06">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+  </S>
+  <S id="s_06">
+    <TRANSL xml:lang="zho">我那珍視的心上人，終於回到身邊。</TRANSL>
+    <W id="s_06_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_06_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_06_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_06_w_04">
+      <FORM>ghar</FORM>
+      <TRANSL xml:lang="zho">家</TRANSL>
+    </W>
+    <W id="s_06_w_05">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+  </S>
+  <S id="s_07">
+    <TRANSL xml:lang="zho">對我而言，這就像迎來了開齋節那樣的幸福與愉悅啊。</TRANSL>
+    <W id="s_07_w_01">
+      <FORM>Eid</FORM>
+      <TRANSL xml:lang="zho">開齋節</TRANSL>
+    </W>
+    <W id="s_07_w_02">
+      <FORM>hogayi</FORM>
+      <TRANSL xml:lang="zho">已經降臨</TRANSL>
+    </W>
+    <W id="s_07_w_03">
+      <FORM>meri</FORM>
+      <TRANSL xml:lang="zho">我的(陰性)</TRANSL>
+    </W>
+    <W id="s_07_w_04">
+      <FORM>mujhe</FORM>
+      <TRANSL xml:lang="zho">於我(與格)</TRANSL>
+    </W>
+  </S>
+  <S id="s_08">
+    <TRANSL xml:lang="zho">濕婆神頭上那象徵永恆的新月已映入了眼簾。</TRANSL>
+    <W id="s_08_w_01">
+      <FORM>Chand</FORM>
+      <TRANSL xml:lang="zho">新月</TRANSL>
+    </W>
+    <W id="s_08_w_02">
+      <FORM>najar</FORM>
+      <TRANSL xml:lang="zho">視線</TRANSL>
+    </W>
+    <W id="s_08_w_03">
+      <FORM>aagaya</FORM>
+      <TRANSL xml:lang="zho">顯現了</TRANSL>
+    </W>
+  </S>
+  <S id="s_09">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_09_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_09_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_10">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_10_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_10_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_11">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_11_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_11_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_12">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_12_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_12_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_13">
+    <TRANSL xml:lang="zho">喔，我那珍視的心上人，終於回到身邊。</TRANSL>
+    <W id="s_13_w_01">
+      <FORM>Ho</FORM>
+      <TRANSL xml:lang="zho">喔</TRANSL>
+    </W>
+    <W id="s_13_w_02">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_13_w_03">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_13_w_04">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_13_w_05">
+      <FORM>ghar</FORM>
+      <TRANSL xml:lang="zho">家</TRANSL>
+    </W>
+    <W id="s_13_w_06">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+  </S>
+  <S id="s_14">
+    <TRANSL xml:lang="zho">究竟是下了什麼魔咒啊，</TRANSL>
+    <W id="s_14_w_01">
+      <FORM>Kaisa</FORM>
+      <TRANSL xml:lang="zho">多麼</TRANSL>
+    </W>
+    <W id="s_14_w_02">
+      <FORM>jadu</FORM>
+      <TRANSL xml:lang="zho">魔咒</TRANSL>
+    </W>
+    <W id="s_14_w_03">
+      <FORM>kar</FORM>
+      <TRANSL xml:lang="zho">施展(魔法)</TRANSL>
+    </W>
+    <W id="s_14_w_04">
+      <FORM>diya</FORM>
+      <TRANSL xml:lang="zho">給予了</TRANSL>
+    </W>
+  </S>
+  <S id="s_15">
+    <TRANSL xml:lang="zho">你這個狡猾的偷心賊。</TRANSL>
+    <W id="s_15_w_01">
+      <FORM>Tune</FORM>
+      <TRANSL xml:lang="zho">你(作格)</TRANSL>
+    </W>
+    <W id="s_15_w_02">
+      <FORM>jadugar</FORM>
+      <TRANSL xml:lang="zho">施法者</TRANSL>
+    </W>
+    <W id="s_15_w_03">
+      <FORM>beiman</FORM>
+      <TRANSL xml:lang="zho">狡猾的人</TRANSL>
+    </W>
+  </S>
+  <S id="s_16">
+    <TRANSL xml:lang="zho">我那親愛的愛人呀。</TRANSL>
+    <W id="s_16_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_16_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_16_w_03">
+      <FORM>ve</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_17">
+    <TRANSL xml:lang="zho">我那良人，我的良人。</TRANSL>
+    <W id="s_17_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_17_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_17_w_03">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_17_w_04">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+  </S>
+  <S id="s_18">
+    <TRANSL xml:lang="zho">你這個偷心的魔法師，究竟對我施展了什麼樣的魔法啊！</TRANSL>
+    <W id="s_18_w_01">
+      <FORM>Kaisa</FORM>
+      <TRANSL xml:lang="zho">多麼</TRANSL>
+    </W>
+    <W id="s_18_w_02">
+      <FORM>jadu</FORM>
+      <TRANSL xml:lang="zho">魔咒</TRANSL>
+    </W>
+    <W id="s_18_w_03">
+      <FORM>kar</FORM>
+      <TRANSL xml:lang="zho">施展(魔法)</TRANSL>
+    </W>
+    <W id="s_18_w_04">
+      <FORM>diya</FORM>
+      <TRANSL xml:lang="zho">給予了</TRANSL>
+    </W>
+    <W id="s_18_w_05">
+      <FORM>tune</FORM>
+      <TRANSL xml:lang="zho">你(作格)</TRANSL>
+    </W>
+    <W id="s_18_w_06">
+      <FORM>jadugar</FORM>
+      <TRANSL xml:lang="zho">施法者</TRANSL>
+    </W>
+    <W id="s_18_w_07">
+      <FORM>beiman</FORM>
+      <TRANSL xml:lang="zho">狡猾的人</TRANSL>
+    </W>
+  </S>
+  <S id="s_19">
+    <TRANSL xml:lang="zho">上蒼啊！神呀！神呀！</TRANSL>
+    <W id="s_19_w_01">
+      <FORM>Rabba</FORM>
+      <TRANSL xml:lang="zho">神(旁遮普語rabb)</TRANSL>
+    </W>
+    <W id="s_19_w_02">
+      <FORM>rabba</FORM>
+      <TRANSL xml:lang="zho">神(旁遮普語rabb)</TRANSL>
+    </W>
+    <W id="s_19_w_03">
+      <FORM>rabba</FORM>
+      <TRANSL xml:lang="zho">神(旁遮普語rabb)</TRANSL>
+    </W>
+  </S>
+  <S id="s_20">
+    <TRANSL xml:lang="zho">我已為愛神魂顛倒了。</TRANSL>
+    <W id="s_20_w_01">
+      <FORM>Mai</FORM>
+      <TRANSL xml:lang="zho">我</TRANSL>
+    </W>
+    <W id="s_20_w_02">
+      <FORM>divani</FORM>
+      <TRANSL xml:lang="zho">神魂顛倒的</TRANSL>
+    </W>
+    <W id="s_20_w_03">
+      <FORM>hogayi</FORM>
+      <TRANSL xml:lang="zho">已經變得</TRANSL>
+    </W>
+  </S>
+  <S id="s_21">
+    <TRANSL xml:lang="zho">彷彿顛顛倒倒，心神俱醉。</TRANSL>
+    <W id="s_21_w_01">
+      <FORM>Meri</FORM>
+      <TRANSL xml:lang="zho">我的(陰性)</TRANSL>
+    </W>
+    <W id="s_21_w_02">
+      <FORM>jan</FORM>
+      <TRANSL xml:lang="zho">靈魂</TRANSL>
+    </W>
+    <W id="s_21_w_03">
+      <FORM>huyi</FORM>
+      <TRANSL xml:lang="zho">變得</TRANSL>
+    </W>
+    <W id="s_21_w_04">
+      <FORM>bejan</FORM>
+      <TRANSL xml:lang="zho">魂不守捨的</TRANSL>
+    </W>
+  </S>
+  <S id="s_22">
+    <TRANSL xml:lang="zho">我那珍視如寶的愛人呀。</TRANSL>
+    <W id="s_22_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_22_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_22_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_22_w_04">
+      <FORM>ha</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_23">
+    <TRANSL xml:lang="zho">你正是我那珍視如寶的愛人。</TRANSL>
+    <W id="s_23_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_23_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_23_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+  </S>
+  <S id="s_24">
+    <TRANSL xml:lang="zho">快，姊妹們，我的姊妹們！</TRANSL>
+    <W id="s_24_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_24_w_02">
+      <FORM>sainyo</FORM>
+      <TRANSL xml:lang="zho">閨蜜(旁遮普語saiyo)</TRANSL>
+    </W>
+    <W id="s_24_w_03">
+      <FORM>sainyo</FORM>
+      <TRANSL xml:lang="zho">閨蜜(旁遮普語saiyo)</TRANSL>
+    </W>
+    <W id="s_24_w_04">
+      <FORM>ni</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_25">
+    <TRANSL xml:lang="zho">姊妹們，我的姊妹們！</TRANSL>
+    <W id="s_25_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_25_w_02">
+      <FORM>sainyo</FORM>
+      <TRANSL xml:lang="zho">閨蜜(旁遮普語saiyo)</TRANSL>
+    </W>
+    <W id="s_25_w_03">
+      <FORM>sainyo</FORM>
+      <TRANSL xml:lang="zho">閨蜜(旁遮普語saiyo)</TRANSL>
+    </W>
+    <W id="s_25_w_04">
+      <FORM>ni</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_26">
+    <TRANSL xml:lang="zho">我那珍視的心上人，終於回到身邊。</TRANSL>
+    <W id="s_26_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_26_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_26_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_26_w_04">
+      <FORM>ghar</FORM>
+      <TRANSL xml:lang="zho">家</TRANSL>
+    </W>
+    <W id="s_26_w_05">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+  </S>
+  <S id="s_27">
+    <TRANSL xml:lang="zho">對我而言，這就像迎來了開齋節那樣的幸福與愉悅啊。</TRANSL>
+    <W id="s_27_w_01">
+      <FORM>Eid</FORM>
+      <TRANSL xml:lang="zho">開齋節</TRANSL>
+    </W>
+    <W id="s_27_w_02">
+      <FORM>hogayi</FORM>
+      <TRANSL xml:lang="zho">已經降臨</TRANSL>
+    </W>
+    <W id="s_27_w_03">
+      <FORM>meri</FORM>
+      <TRANSL xml:lang="zho">我的(陰性)</TRANSL>
+    </W>
+    <W id="s_27_w_04">
+      <FORM>mujhe</FORM>
+      <TRANSL xml:lang="zho">於我(與格)</TRANSL>
+    </W>
+  </S>
+  <S id="s_28">
+    <TRANSL xml:lang="zho">濕婆神頭上那象徵永恆的新月已映入了眼簾。</TRANSL>
+    <W id="s_28_w_01">
+      <FORM>Chand</FORM>
+      <TRANSL xml:lang="zho">新月</TRANSL>
+    </W>
+    <W id="s_28_w_02">
+      <FORM>najar</FORM>
+      <TRANSL xml:lang="zho">視線</TRANSL>
+    </W>
+    <W id="s_28_w_03">
+      <FORM>aagaya</FORM>
+      <TRANSL xml:lang="zho">顯現了</TRANSL>
+    </W>
+  </S>
+  <S id="s_29">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_29_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_29_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_30">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_30_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_30_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_31">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_31_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_31_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_32">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_32_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_32_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_33">
+    <TRANSL xml:lang="zho">我那珍視如寶的愛人啊，我那心上人。</TRANSL>
+    <W id="s_33_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_33_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_33_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_33_w_04">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_33_w_05">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+  </S>
+  <S id="s_34">
+    <TRANSL xml:lang="zho">我那珍視如寶的愛人啊，我那心上人。</TRANSL>
+    <W id="s_34_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_34_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_34_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_34_w_04">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_34_w_05">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+  </S>
+  <S id="s_35">
+    <TRANSL xml:lang="zho">這顆心因你而悸動不已，</TRANSL>
+    <W id="s_35_w_01">
+      <FORM>Dil</FORM>
+      <TRANSL xml:lang="zho">心</TRANSL>
+    </W>
+    <W id="s_35_w_02">
+      <FORM>machle</FORM>
+      <TRANSL xml:lang="zho">雀躍(渴望)</TRANSL>
+    </W>
+    <W id="s_35_w_03">
+      <FORM>tere</FORM>
+      <TRANSL xml:lang="zho">你的(斜格)</TRANSL>
+    </W>
+    <W id="s_35_w_04">
+      <FORM>sang</FORM>
+      <TRANSL xml:lang="zho">隨</TRANSL>
+    </W>
+  </S>
+  <S id="s_36">
+    <TRANSL xml:lang="zho">只為了棲身啊，為了停留在你心中。</TRANSL>
+    <W id="s_36_w_01">
+      <FORM>Rahne</FORM>
+      <TRANSL xml:lang="zho">居住</TRANSL>
+    </W>
+    <W id="s_36_w_02">
+      <FORM>ko</FORM>
+      <TRANSL xml:lang="zho">為了</TRANSL>
+    </W>
+    <W id="s_36_w_03">
+      <FORM>rahne</FORM>
+      <TRANSL xml:lang="zho">居住</TRANSL>
+    </W>
+    <W id="s_36_w_04">
+      <FORM>ko</FORM>
+      <TRANSL xml:lang="zho">為了</TRANSL>
+    </W>
+  </S>
+  <S id="s_37">
+    <TRANSL xml:lang="zho">這顆心急切地渴望與你相伴。</TRANSL>
+    <W id="s_37_w_01">
+      <FORM>Dil</FORM>
+      <TRANSL xml:lang="zho">心</TRANSL>
+    </W>
+    <W id="s_37_w_02">
+      <FORM>machle</FORM>
+      <TRANSL xml:lang="zho">雀躍(渴望)</TRANSL>
+    </W>
+    <W id="s_37_w_03">
+      <FORM>tere</FORM>
+      <TRANSL xml:lang="zho">你的(斜格)</TRANSL>
+    </W>
+    <W id="s_37_w_04">
+      <FORM>sang</FORM>
+      <TRANSL xml:lang="zho">隨</TRANSL>
+    </W>
+  </S>
+  <S id="s_38">
+    <TRANSL xml:lang="zho">只為了棲身啊，為了停留在你心中。</TRANSL>
+    <W id="s_38_w_01">
+      <FORM>Rahne</FORM>
+      <TRANSL xml:lang="zho">居住</TRANSL>
+    </W>
+    <W id="s_38_w_02">
+      <FORM>ko</FORM>
+      <TRANSL xml:lang="zho">為了</TRANSL>
+    </W>
+    <W id="s_38_w_03">
+      <FORM>rahne</FORM>
+      <TRANSL xml:lang="zho">居住</TRANSL>
+    </W>
+    <W id="s_38_w_04">
+      <FORM>ko</FORM>
+      <TRANSL xml:lang="zho">為了</TRANSL>
+    </W>
+  </S>
+  <S id="s_39">
+    <TRANSL xml:lang="zho">只為了傾訴啊，為了訴說著充滿濃情蜜意的甜言蜜語。</TRANSL>
+    <W id="s_39_w_01">
+      <FORM>Pyar</FORM>
+      <TRANSL xml:lang="zho">愛人</TRANSL>
+    </W>
+    <W id="s_39_w_02">
+      <FORM>valipyari</FORM>
+      <TRANSL xml:lang="zho">充滿深情的</TRANSL>
+    </W>
+    <W id="s_39_w_03">
+      <FORM>bate</FORM>
+      <TRANSL xml:lang="zho">話語</TRANSL>
+    </W>
+    <W id="s_39_w_04">
+      <FORM>karne</FORM>
+      <TRANSL xml:lang="zho">說</TRANSL>
+    </W>
+    <W id="s_39_w_05">
+      <FORM>ko</FORM>
+      <TRANSL xml:lang="zho">為了</TRANSL>
+    </W>
+    <W id="s_39_w_06">
+      <FORM>karne</FORM>
+      <TRANSL xml:lang="zho">說</TRANSL>
+    </W>
+    <W id="s_39_w_07">
+      <FORM>ko</FORM>
+      <TRANSL xml:lang="zho">為了</TRANSL>
+    </W>
+  </S>
+  <S id="s_40">
+    <TRANSL xml:lang="zho">（抒情哼唱）</TRANSL>
+    <W id="s_40_w_01">
+      <FORM>Aaaaaaaaaa</FORM>
+      <TRANSL xml:lang="zho">(吟唱聲)</TRANSL>
+    </W>
+  </S>
+  <S id="s_41">
+    <TRANSL xml:lang="zho">今日，這朵含苞的心思，</TRANSL>
+    <W id="s_41_w_01">
+      <FORM>Aaj</FORM>
+      <TRANSL xml:lang="zho">今天</TRANSL>
+    </W>
+    <W id="s_41_w_02">
+      <FORM>kali</FORM>
+      <TRANSL xml:lang="zho">花苞</TRANSL>
+    </W>
+    <W id="s_41_w_03">
+      <FORM>ke</FORM>
+      <TRANSL xml:lang="zho">的</TRANSL>
+    </W>
+    <W id="s_41_w_04">
+      <FORM>mann</FORM>
+      <TRANSL xml:lang="zho">心</TRANSL>
+    </W>
+    <W id="s_41_w_05">
+      <FORM>ki</FORM>
+      <TRANSL xml:lang="zho">的</TRANSL>
+    </W>
+  </S>
+  <S id="s_42">
+    <TRANSL xml:lang="zho">這朵朵花蕾都已紛紛綻放了呀！</TRANSL>
+    <W id="s_42_w_01">
+      <FORM>Kaliya</FORM>
+      <TRANSL xml:lang="zho">朵朵花苞</TRANSL>
+    </W>
+    <W id="s_42_w_02">
+      <FORM>khil</FORM>
+      <TRANSL xml:lang="zho">綻放</TRANSL>
+    </W>
+    <W id="s_42_w_03">
+      <FORM>gayi</FORM>
+      <TRANSL xml:lang="zho">了</TRANSL>
+    </W>
+    <W id="s_42_w_04">
+      <FORM>re</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_43">
+    <TRANSL xml:lang="zho">我那親愛的愛人呀，良人，</TRANSL>
+    <W id="s_43_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_43_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_43_w_03">
+      <FORM>ve</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+    <W id="s_43_w_04">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_43_w_05">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+  </S>
+  <S id="s_44">
+    <TRANSL xml:lang="zho">我的心上人。</TRANSL>
+    <W id="s_44_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_44_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+  </S>
+  <S id="s_45">
+    <TRANSL xml:lang="zho">今日，這朵含苞的心思，</TRANSL>
+    <W id="s_45_w_01">
+      <FORM>Aaj</FORM>
+      <TRANSL xml:lang="zho">今天</TRANSL>
+    </W>
+    <W id="s_45_w_02">
+      <FORM>kali</FORM>
+      <TRANSL xml:lang="zho">花苞</TRANSL>
+    </W>
+    <W id="s_45_w_03">
+      <FORM>ke</FORM>
+      <TRANSL xml:lang="zho">的</TRANSL>
+    </W>
+    <W id="s_45_w_04">
+      <FORM>mann</FORM>
+      <TRANSL xml:lang="zho">心</TRANSL>
+    </W>
+    <W id="s_45_w_05">
+      <FORM>ki</FORM>
+      <TRANSL xml:lang="zho">的</TRANSL>
+    </W>
+  </S>
+  <S id="s_46">
+    <TRANSL xml:lang="zho">這朵朵花蕾都已紛紛綻放了呀！</TRANSL>
+    <W id="s_46_w_01">
+      <FORM>Kaliya</FORM>
+      <TRANSL xml:lang="zho">朵朵花苞</TRANSL>
+    </W>
+    <W id="s_46_w_02">
+      <FORM>khil</FORM>
+      <TRANSL xml:lang="zho">綻放</TRANSL>
+    </W>
+    <W id="s_46_w_03">
+      <FORM>gayi</FORM>
+      <TRANSL xml:lang="zho">了</TRANSL>
+    </W>
+    <W id="s_46_w_04">
+      <FORM>re</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_47">
+    <TRANSL xml:lang="zho">上蒼啊！神呀！神呀！</TRANSL>
+    <W id="s_47_w_01">
+      <FORM>Rabba</FORM>
+      <TRANSL xml:lang="zho">神(旁遮普語rabb)</TRANSL>
+    </W>
+    <W id="s_47_w_02">
+      <FORM>rabba</FORM>
+      <TRANSL xml:lang="zho">神(旁遮普語rabb)</TRANSL>
+    </W>
+    <W id="s_47_w_03">
+      <FORM>rabba</FORM>
+      <TRANSL xml:lang="zho">神(旁遮普語rabb)</TRANSL>
+    </W>
+  </S>
+  <S id="s_48">
+    <TRANSL xml:lang="zho">我所有的好運氣都已全然甦醒。</TRANSL>
+    <W id="s_48_w_01">
+      <FORM>Jage</FORM>
+      <TRANSL xml:lang="zho">覺醒了</TRANSL>
+    </W>
+    <W id="s_48_w_02">
+      <FORM>mere</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_48_w_03">
+      <FORM>nasib</FORM>
+      <TRANSL xml:lang="zho">氣運</TRANSL>
+    </W>
+    <W id="s_48_w_04">
+      <FORM>sari</FORM>
+      <TRANSL xml:lang="zho">全部的</TRANSL>
+    </W>
+  </S>
+  <S id="s_49">
+    <TRANSL xml:lang="zho">全部的喜悅與幸福都已降臨了呀！</TRANSL>
+    <W id="s_49_w_01">
+      <FORM>Khushiya</FORM>
+      <TRANSL xml:lang="zho">喜悅</TRANSL>
+    </W>
+    <W id="s_49_w_02">
+      <FORM>mil</FORM>
+      <TRANSL xml:lang="zho">找到</TRANSL>
+    </W>
+    <W id="s_49_w_03">
+      <FORM>gayi</FORM>
+      <TRANSL xml:lang="zho">了</TRANSL>
+    </W>
+    <W id="s_49_w_04">
+      <FORM>re</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_50">
+    <TRANSL xml:lang="zho">我那珍視如寶的愛人啊。</TRANSL>
+    <W id="s_50_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_50_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_50_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_50_w_04">
+      <FORM>ha</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_51">
+    <TRANSL xml:lang="zho">你正是我那珍視如寶的愛人。</TRANSL>
+    <W id="s_51_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_51_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_51_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+  </S>
+  <S id="s_52">
+    <TRANSL xml:lang="zho">快，姊妹們，我的姊妹們！</TRANSL>
+    <W id="s_52_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_52_w_02">
+      <FORM>sainyo</FORM>
+      <TRANSL xml:lang="zho">閨蜜(旁遮普語saiyo)</TRANSL>
+    </W>
+    <W id="s_52_w_03">
+      <FORM>sainyo</FORM>
+      <TRANSL xml:lang="zho">閨蜜(旁遮普語saiyo)</TRANSL>
+    </W>
+    <W id="s_52_w_04">
+      <FORM>ni</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_53">
+    <TRANSL xml:lang="zho">姊妹們，我的姊妹們！</TRANSL>
+    <W id="s_53_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_53_w_02">
+      <FORM>sainyo</FORM>
+      <TRANSL xml:lang="zho">閨蜜(旁遮普語saiyo)</TRANSL>
+    </W>
+    <W id="s_53_w_03">
+      <FORM>sainyo</FORM>
+      <TRANSL xml:lang="zho">閨蜜(旁遮普語saiyo)</TRANSL>
+    </W>
+    <W id="s_53_w_04">
+      <FORM>ni</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+  </S>
+  <S id="s_54">
+    <TRANSL xml:lang="zho">我那珍視的心上人，終於回到身邊。</TRANSL>
+    <W id="s_54_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_54_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_54_w_03">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_54_w_04">
+      <FORM>ghar</FORM>
+      <TRANSL xml:lang="zho">家</TRANSL>
+    </W>
+    <W id="s_54_w_05">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+  </S>
+  <S id="s_55">
+    <TRANSL xml:lang="zho">對我而言，這就像迎來了開齋節那樣的幸福與愉悅啊。</TRANSL>
+    <W id="s_55_w_01">
+      <FORM>Eid</FORM>
+      <TRANSL xml:lang="zho">開齋節</TRANSL>
+    </W>
+    <W id="s_55_w_02">
+      <FORM>hogayi</FORM>
+      <TRANSL xml:lang="zho">已經降臨</TRANSL>
+    </W>
+    <W id="s_55_w_03">
+      <FORM>meri</FORM>
+      <TRANSL xml:lang="zho">我的(陰性)</TRANSL>
+    </W>
+    <W id="s_55_w_04">
+      <FORM>mujhe</FORM>
+      <TRANSL xml:lang="zho">於我(與格)</TRANSL>
+    </W>
+  </S>
+  <S id="s_56">
+    <TRANSL xml:lang="zho">濕婆神頭上那象徵永恆的新月已映入了眼簾。</TRANSL>
+    <W id="s_56_w_01">
+      <FORM>Chand</FORM>
+      <TRANSL xml:lang="zho">新月</TRANSL>
+    </W>
+    <W id="s_56_w_02">
+      <FORM>najar</FORM>
+      <TRANSL xml:lang="zho">視線</TRANSL>
+    </W>
+    <W id="s_56_w_03">
+      <FORM>aagaya</FORM>
+      <TRANSL xml:lang="zho">顯現了</TRANSL>
+    </W>
+  </S>
+  <S id="s_57">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_57_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_57_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_58">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_58_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_58_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_59">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_59_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_59_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_60">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_60_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_60_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_61">
+    <TRANSL xml:lang="zho">我那珍視如寶的愛人來了，真的降臨了呀！</TRANSL>
+    <W id="s_61_w_01">
+      <FORM>Sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_61_w_02">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_61_w_03">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_61_w_04">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+    <W id="s_61_w_05">
+      <FORM>ji</FORM>
+      <TRANSL xml:lang="zho">呀(親暱助詞)</TRANSL>
+    </W>
+    <W id="s_61_w_06">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+  </S>
+  <S id="s_62">
+    <TRANSL xml:lang="zho">我那珍視如寶的愛人來了，真的降臨了呀！</TRANSL>
+    <W id="s_62_w_01">
+      <FORM>Sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_62_w_02">
+      <FORM>sajan</FORM>
+      <TRANSL xml:lang="zho">情人</TRANSL>
+    </W>
+    <W id="s_62_w_03">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_62_w_04">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+    <W id="s_62_w_05">
+      <FORM>ji</FORM>
+      <TRANSL xml:lang="zho">呀(親暱助詞)</TRANSL>
+    </W>
+    <W id="s_62_w_06">
+      <FORM>aaya</FORM>
+      <TRANSL xml:lang="zho">來了</TRANSL>
+    </W>
+  </S>
+  <S id="s_63">
+    <TRANSL xml:lang="zho">我那親愛的愛人呀，我那良人。</TRANSL>
+    <W id="s_63_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_63_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_63_w_03">
+      <FORM>ve</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+    <W id="s_63_w_04">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_63_w_05">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+  </S>
+  <S id="s_64">
+    <TRANSL xml:lang="zho">我那親愛的愛人呀，我那良人。</TRANSL>
+    <W id="s_64_w_01">
+      <FORM>Mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_64_w_02">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+    <W id="s_64_w_03">
+      <FORM>ve</FORM>
+      <TRANSL xml:lang="zho">呀</TRANSL>
+    </W>
+    <W id="s_64_w_04">
+      <FORM>mera</FORM>
+      <TRANSL xml:lang="zho">我的(陽性)</TRANSL>
+    </W>
+    <W id="s_64_w_05">
+      <FORM>sona</FORM>
+      <TRANSL xml:lang="zho">黃金</TRANSL>
+    </W>
+  </S>
+  <S id="s_65">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_65_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_65_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_66">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_66_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_66_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_67">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_67_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_67_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+  <S id="s_68">
+    <TRANSL xml:lang="zho">賀喜啊！賀喜！</TRANSL>
+    <W id="s_68_w_01">
+      <FORM>Mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+    <W id="s_68_w_02">
+      <FORM>mubarkan</FORM>
+      <TRANSL xml:lang="zho">祝福</TRANSL>
+    </W>
+  </S>
+</TEXT>
